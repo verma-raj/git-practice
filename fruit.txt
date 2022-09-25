@@ -2,3 +2,6 @@ Mango
 Orange
 Banana
 Cherry
+#--- Added by Dev2----
+Plum
+
