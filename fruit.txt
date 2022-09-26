@@ -7,4 +7,8 @@ Berry
 Litchi
 #--- Added by Dev2----
 Plum
+/*-- Added by Dev3 for feature-release---*/
+Sweet lemon
+Pinapple
+Sugarcane 
 
