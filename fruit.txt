@@ -7,6 +7,12 @@ Berry
 Litchi
 #--- Added by Dev2----
 Plum
+/*--- Dev1 for new feature branch---*/
+red-Berry
+Avacardo
+
+/* Added by Dev2 for new feature-branch */
+Sugarcane
 /*-- Added by Dev3 for feature-release---*/
 Sweet lemon
 Pinapple
